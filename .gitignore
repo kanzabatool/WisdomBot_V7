@@ -1,0 +1,10 @@
+
+.idea
+__pycache__
+
+full_conceptnet_dict
+
+venv/*
+
+file*
+sub-file*

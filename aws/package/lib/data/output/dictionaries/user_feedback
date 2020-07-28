@@ -1,0 +1,37 @@
+user_query	similarity	quote	author	method	keywords	query	label
+How to gain wisdom?	0.58	You will make some mistakes but, if you learn from those mistakes, those mistakes will become wisdom and wisdom is essential to becoming wealthy	Robert Kiyosaki	keywords	mistakes || wisdom	-	1
+How to gain wisdom?	0.54	Seek advice from those who are competent through their own experience and success to give it		average_bow	-	-	1
+How to gain wisdom?	0.5	"God, grant me the serenity
+to accept the things I cannot change,
+the courage to change the things I can,
+and the wisdom to know the difference."	The Serenity Prayer	average_bow	-	-	1
+How to gain wisdom?	0.5	Don’t be addicted to money. Work to learn. don’t work for money. Work for knowledge	Robert Kiyosaki	keywords	money || knowledge	-	1
+How to gain wisdom?	0.49	Listen to the acient wisdom. The sun that shines today is the sun that shone when thy father was born, and will still be shining when thy last grandchild shall pass into the darkness.		queries	-	your wisdom is outdated	1
+How to gain wisdom?	0.49	The thoughts of youth are bright lights that shine forth like the meteors that oft make brilliant the sky, but the wisdom of age is like the fixed stars that shine so unchanged that the sailor may depend upon them to steer his course.		queries	-	your wisdom is outdated	1
+How to gain wisdom?	0.48	No one else knows what they are doing either	Ricky Gelvais	combined	-	-	0
+How to gain wisdom?	0.45	Acting like you dont care is not letting go	Penelope Douglas	combined	-	-	0
+How to gain wisdom?	0.44	From understanding comes LOVE. Understanding Set your sights on a place higher than your eyes can see.	Rumi	keywords	understanding	-	0
+How to gain wisdom?	0.44	It is during our darkest moments that we must focus to see the light	Aristotle	combined	-	-	0
+How to gain wisdom?	0.42	God writes spiritual Mysteries on our heart, where they wait silently for discovery.	Rumi	queries	-	How to be spiritual?	0
+I want to be the richest person on earth.	0.74	If you are determined, the universe is on your side. The universe will yield to you and life will never be the same again. You have been given something to bring to the universe that was not here before you showed up. I say to you the universe is calling you.	Les Brown	average_bow	-	-	1
+I want to be the richest person on earth.	0.73	I can choose either to be a victim of the world or an adventurer in search of treasure. It’s all a question of how I view my life.	Paulo Coelho	average_bow	-	-	0
+I want to be the richest person on earth.	0.73	If you want to be financially-free, you need to become a different person than you are today and let go of whatever has held you back in the past	Robert Kiyosaki	average_bow	-	-	1
+I want to be the richest person on earth.	0.71	My boat strikes something deep. At first sounds of silence, waves. Nothing has happened; Or perhaps everything has happened. and I am sitting in my new life	Rumi	queries	-	I will be like this for ever	0
+I want to be the richest person on earth.	0.7	You have got to make a declaration that this is what you stand for. You’re standing up for your dreams; you’re standing up for peace of mind; you’re standing up for health. You want it and you’re going to go all out to have it.	Les Brown	queries	-	I will work on myself	0
+I want to be the richest person on earth.	0.68	Let yourself be drawn by the stronger pull of that which you truly love.	Rumi	queries	-	How to know at which thing I am good at?	0
+I want to be the richest person on earth.	0.56	It is true that money cannot buy happiness but it does make it possible for you to enjoy the best that the world has to offer.		combined	-	-	1
+I want to be the richest person on earth.	0.55	Recognize that the very molecules that make up your body, the atoms that construct the molecules, are traceable to the crucibles that were once the centers of high mass stars that exploded their chemically rich guts into the galaxy, enriching pristine gas clouds with the chemistry of life. So that we are all connected to each other biologically, to the earth chemically and to the rest of the universe atomically. That’s kinda cool! That makes me smile and I actually feel quite large at the end of that. It’s not that we are better than the universe, we are part of the universe. We are in the universe and the universe is in us.	Neil deGrasse Tyson	combined	-	-	0
+I want to be the richest person on earth.	0.36	As you start to walk on the way, the way appears.	Rumi	keywords	way	-	1
+I want to be the richest person on earth.	0.36	Don’t lose yourself in the process of caring for others. Don’t overdo it as if you don’t need any care to give to yourself	Israelmore Ayivor	keywords	myself	-	0
+I want to be the richest person on earth.	0.35	‘Someday’, ‘maybe’ and ‘if’ are very dangerous words that must be avoided.”	Paulo Coelho	keywords	someday || maybe	-	0
+why am i here	0.83	All of us have some purpose for being here in this universe. You are vessel to something great.	Les Brown	queries	-	Am I here for any reason?	
+why am i here	0.79	Here’s what I discovered. You will go through things and while you’re going through them, you can’t understand why it’s happening to you. But after you go through it, you will look back and say, ‘Oh, now I understand why I needed that lesson’. That is how life prepares you for bigger and better things.	Les Brown	average_bow	-	-	1
+why am i here	0.78	Why am I seeking? I am the same as God. His essence speaks through me. I have been looking for myself.	Rumi	queries	-	I feel I am the God	1
+why am i here	0.78	Turning toward what you deeply love saves you	Rumi	queries	-	I want to do what I love	1
+why am i here	0.77	Yesterday I was clever so I wanted to change the world. Today I am wise so I am changing myself	Rumi	average_bow	-	-	1
+why am i here	0.51	"You must have an emotional connection with your dreams and know why you want to accompalish them. When your ""why"" is big enough you will find your ""how""."	Les Brown	keywords	why || dream	-	1
+why am i here	0.48	Outside ideas of right doing and wrong doing there is a field. I'll meet you there.	Rumi	combined	-	-	1
+why am i here	0.47	It is true that money cannot buy happiness but it does make it possible for you to enjoy the best that the world has to offer.		combined	-	-	1
+why am i here	0.46	You are what you believe yourself to be.	Paulo Coelho	combined	-	-	1
+why am i here	0.45	"If you only say one prayer in a day make it ""Thank You""."	Rumi	keywords	thank you || prayer	-	1
+why am i here	0.44	Don’t lose yourself in the process of caring for others. Don’t overdo it as if you don’t need any care to give to yourself	Israelmore Ayivor	keywords	myself	-	1
